@@ -1,8 +1,9 @@
 # github-cheat-sheet
-Github Sheet Cheat with the most needed stuff.. <br />
+Github Sheet Cheat with the most needed stuff.. <br /><br />
 Full whitelist for HTML can be found:
 - https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb
 
+<br /><br />
 ## table
 ```html
 <table align="center"><tr><td align="center" width="9999">
@@ -53,3 +54,6 @@ Description for my awesome project
 
 <br />
 <br />
+
+## Markdown list
+- https://about.gitlab.com/handbook/markdown-guide/
