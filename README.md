@@ -28,6 +28,15 @@ Description for my awesome project
 @@ text in purple (and bold)@@
 ```
 
+```html
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 ## GIF / Image
 ```html
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
