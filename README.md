@@ -1,6 +1,7 @@
 # github-cheat-sheet
-Github Sheet Cheat with the most needed stuff..
-
+Github Sheet Cheat with the most needed stuff.. <br />
+Full whitelist for HTML can be found:
+- https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/sanitization_filter.rb
 
 ## table
 ```html
